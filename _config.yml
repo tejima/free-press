@@ -3,7 +3,7 @@ theme: jekyll-cayman-theme
 # Setup
 title:        国民の知る権利を守る自由報道協会
 tagline:      一般社団法人 国民の知る権利を守る自由報道協会の暫定版公式サイトです
-baseurl:      "/free-press/"
+baseurl:      ""
 paginate:     1
 
 # About/contact
