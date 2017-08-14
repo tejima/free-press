@@ -5,7 +5,7 @@
 * 代表理事： 坂倉豊年
 * 主な活動内容： テレビ放送の自由化署名活動
 * 公式サイト： [http://free-press.or.jp](http://free-press.or.jp)
-* 連絡先メールアドレス： [info@free-press.or.jp](info@free-press.or.jp)
+* 連絡先メールアドレス： [contact@free-press.or.jp](contact@free-press.or.jp)
 
 ## テレビ放送の自由化100万署名始動!!
 
