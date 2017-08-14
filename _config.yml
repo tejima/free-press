@@ -1,1 +1,19 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        報道協会
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       坂倉豊年
+  url:        http://
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
